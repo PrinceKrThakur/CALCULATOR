@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+button{
+  padding: 20px;
+  margin-top: 2px;
+  border: 2px solid  black;
+  border-radius: 6px;
+  cursor: pointer;
+  font-style: italic;
+  font-family: Roboto;
+  font-size: 20px;
+}
+
+
+.row input{
+  margin:0;
+  padding:20px 45px;
+  border:5px solid blue;
+  border-radius: 9px;
+ 
+}
+.text-center{
+  text-align: center;
+}
+
+.flex{
+  display: flex;
+}
+.flex-col{
+  flex-direction: column;;  
+}
+.itemxcenter{
+  align-items: center;
+}
+.row{
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
